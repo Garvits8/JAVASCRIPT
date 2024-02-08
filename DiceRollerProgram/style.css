@@ -1,0 +1,21 @@
+#conatiner{
+    display:block;
+    text-align: center;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+BUTTON{
+    margin-top:10px;
+    border-radius: 6px;
+    background-color: rgb(131, 186, 234);
+    COLOR:WHITE;
+}
+BUTTON:HOVER{
+   color: brown;
+}
+#diceimages img{
+   width:150px;
+   margin:10px;
+}

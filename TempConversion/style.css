@@ -1,0 +1,20 @@
+body{
+    background-color:bisque;
+}
+form{
+    display:block;
+    text-align: center;
+    background-color: white;
+    width:50%;
+    margin: 100px;
+    border-radius:2cm;
+    border-width:1cm;
+    border-color: blueviolet;
+}
+#submit{
+    margin: 20px;
+    border-radius: 30px;
+    color:white;
+    background-color:rgb(36, 122, 93);
+
+}

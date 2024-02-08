@@ -1,0 +1,33 @@
+#id2{
+    /* font-size: 100px;
+    position: absolute;
+    margin-left :550px; 
+    margin-top:500px;
+    display: flexbox; */
+    display: block;
+    text-align: center;
+    margin-top:5em;
+    font-size: 100px;
+    
+}
+#container{
+text-align: center;
+/* padding:0px; */
+
+}
+.button{
+    background-color: aliceblue;
+    font-size: .5cm;
+    padding:10px;
+    margin: 5px;
+    border-radius: 40px;
+    /* border-bottom: 5px;
+    border-top: 5px; */
+    border-color: aquamarine;
+    border-width: 10px;
+}   
+
+body{
+    background-color: blanchedalmond;
+    /* display:flexbox; */
+}
